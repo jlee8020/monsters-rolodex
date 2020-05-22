@@ -2,7 +2,7 @@
 A monster filled React App with API Calls.
 
 ### Site Preview
-![images]('images/Monsters-Preview.png')
+![Imgur](https://i.imgur.com/1O6sot6.png)
 
 ### Credits 
 Robohash API (https://robohash.org)
